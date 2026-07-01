@@ -35,6 +35,31 @@ Revise o conteúdo acumulado ao longo do período em vez de estudar na véspera.
 2. Responda primeiro o que sabe
 3. Gerencie o tempo dividindo a duração total pelo número de questões
 
+
+# Capítulo 3 — Não tenha vergonha de tirar dúvidas
+
+## Tire suas dúvidas o quanto antes
+
+Se travou em alguma explicação, resolva isso logo, seja no meio da aula, no finalzinho ou depois que o sinal tocar. O problema de deixar para depois é que a matéria acumula e acompanhar os próximos temas vira um sufoco.
+
+## Esqueça o medo do julgamento
+
+Quase sempre aquela sua dúvida "boba" é a mesma de metade da sala, que também está com vergonha de falar. Quando você toma a iniciativa e pergunta, acaba salvando a turma inteira.
+
+## Troque ideia com a galera
+
+Estudar em grupo e explicar a matéria uns para os outros ajuda muito a fixar o conteúdo. Só tome cuidado para não virar o "copiador de gabarito"; o foco principal aqui é entender o raciocínio.
+
+## Não deixe virar uma bola de neve
+
+Na ETEC, as matérias são muito conectadas. Se você boiar em um assunto agora, a chance de se enrolar nos próximos passos é gigante, porque um conteúdo serve de base para o outro.
+
+## Entenda que perguntar faz parte do jogo
+
+Ninguém entra na escola sabendo tudo. Correr atrás e tirar suas dúvidas não é sinal de fraqueza, mas sim de que você está interessado e quer mandar bem de verdade. É essa postura que faz a diferença até o fim do curso.
+
+
+
 # Capítulo 4: Trabalho em Equipe
 
 Se tem uma coisa que você vai fazer na ETEC é trabalho em grupo. Quase toda a nota da parte técnica vem disso. A real é que a escola usa esses projetos para simular o que rola em uma empresa de verdade. Se você souber lidar com as pessoas e dividir as tarefas do jeito certo, seu semestre vai ser suave. Se não, vai ser puro desespero.
